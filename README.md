@@ -1,4 +1,4 @@
-# TS-Primer
+# Iterable buffer
 The dawn of a TypeScript project.
 
 ## Automated tests
